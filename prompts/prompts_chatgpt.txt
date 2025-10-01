@@ -1,1 +1,21 @@
+# prompts_chatgpt.txt
 
+# Título e conceito do eBook
+Prompt:
+"Crie um título para um eBook curto e visual, com tema surreal, onírico e com final aberto. A história deve ser simples e deixar espaço para a imaginação do leitor."
+
+# Introdução
+Prompt:
+"Escreva uma introdução curta para um eBook chamado 'O Mundo dos Sonhos', onde uma pessoa encontra um portal misterioso durante uma caminhada à noite."
+
+# Capítulo 1 — O Encontro
+Prompt:
+"Descreva uma cena curta em que o personagem encontra um portal luminoso em uma floresta escura. A descrição deve ter uma atmosfera misteriosa, como um sonho."
+
+# Capítulo 2 — O Outro Lado
+Prompt:
+"Descreva um mundo surreal onde o chão é feito de espelhos líquidos, ilhas flutuam no céu e criaturas transparentes deslizam pelo ar. Estilo onírico, como uma pintura surrealista."
+
+# Capítulo 3 — A Escolha
+Prompt:
+"Descreva uma cena final em que o personagem precisa escolher entre dois caminhos: um que leva de volta ao mundo real e outro que leva a um desconhecido estrelado. Termine sem revelar a escolha."
