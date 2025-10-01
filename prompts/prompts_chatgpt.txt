@@ -1,5 +1,3 @@
-# prompts_chatgpt.txt
-
 # Título e conceito do eBook
 Prompt:
 "Crie um título para um eBook curto e visual, com tema surreal, onírico e com final aberto. A história deve ser simples e deixar espaço para a imaginação do leitor."
