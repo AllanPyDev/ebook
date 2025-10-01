@@ -1,1 +1,17 @@
+# prompts_midjourney.txt
 
+# Capa
+Prompt:
+A glowing dream portal in the middle of a dark forest at night, ethereal particles, soft cinematic lighting, surreal fantasy style --ar 2:3
+
+# Capítulo 1 — O Encontro
+Prompt:
+A person standing in front of a glowing portal in a dark forest, dreamlike atmosphere, soft rim light, mystical energy, high detail, surreal fantasy --ar 16:9
+
+# Capítulo 2 — O Outro Lado
+Prompt:
+Surreal dream landscape with floating islands, liquid mirror ground reflecting weird skies, melting clocks, transparent floating creatures, soft pastel palette, dalí-inspired, high detail --ar 16:9
+
+# Capítulo 3 — A Escolha
+Prompt:
+A person standing between two glowing dream paths: one leading to a starry void, the other back to a forest portal, cinematic surrealism, moody lighting, high detail --ar 16:9
